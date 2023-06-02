@@ -1,3 +1,14 @@
+<p align="center"> 
+  <img src="images/android app.jpg" alt="android app.jpg" width="80px" height="80px">
+</p>
+<h1 align="center"> Android App Authenticity Predictor </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+<p align="center"> 
+<img src="images/Malware.jpg" alt="MALWARE ALERT" height="382px">
+</p>
+
+<p>I have developed a Malware detector program in Python which classifies given apps as benign or malware using the Gradient Boostiong Algorithm.</p>
+
 # Project Information:
 Android is the most popular operating system in the world, with over 2.5 billion active users spanning over 190 countries. Created by Andy Rubin, it quickly became the favorite OS for most of the mobile manufacturers in the early 2010’s. Being favorite of so many users, the statistics of having highest malware rate i.e., 47.15% of all vulnerable devices is a concern for android mobile users. 
 	In this project,I develop a model using machine learning techniques that can differentiate between the malware apps and the benign ones.
