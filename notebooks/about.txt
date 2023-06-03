@@ -1,1 +1,0 @@
-This Folder contains google colab notebook of the project.
