@@ -15,9 +15,7 @@ This project contains three directories, one model as follows:
 <ul>
  <li><b> notebooks: </b> This Folder contains .ipynb for the project</li><br>
  <li><b> data: </b> This folder contains</li>
-	<t><b>a. raw_data.csv : </b>The raw data.</t><br>
-	<t><b>b. intermediate.csv : </b>The data processed to gain insights and performing EDA.</t><br>
-	<t><b>c. final_data.csv : </b>The data used for modelling purposes.</t>
+	<t><b>final_data.csv : </b>The data used for modelling purposes.</t>
   <li><b> reports: </b> This contains the powerpoint presentation and technical documentation related to the project.<br>
 <li><b> model: </b> The model is joblib file of Gradient Boosting model. </li>
  </ul>
