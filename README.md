@@ -8,7 +8,7 @@
 <img src="images/Malware.jpg" alt="" height="382px">
 </p>
 
-<p>I have developed a Malware detector program in Python which classifies given apps as benign or malware using the Gradient Boostiong Algorithm.</p>
+<p>I have developed a Malware detector program in Python which classifies given apps as benign or malware using the Gradient Boosting Algorithm.</p>
 
 # :floppy_disk: Project Files:
 This project contains three directories, one model as follows:
